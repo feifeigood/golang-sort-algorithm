@@ -4,6 +4,6 @@
 
 直接插入排序是一种稳定的排序方法
 
-*时间复杂度* ![](http://latex.codecogs.com/gif.latex?O(n^2))
+*时间复杂度：* ![](http://latex.codecogs.com/gif.latex?O(n^2))
 
-*空间复杂度* ![](http://latex.codecogs.com/gif.latex?O(1))
+*空间复杂度：* ![](http://latex.codecogs.com/gif.latex?O(1))
