@@ -15,4 +15,4 @@
 
 *时间复杂度：* ![](http://latex.codecogs.com/gif.latex?O({n}\lg{n}))
 
-*空间复杂度：* ![](http://latex.codecogs.com/gif.latex?O(\\lg{n}))
+*空间复杂度：* ![](http://latex.codecogs.com/gif.latex?O(1))
