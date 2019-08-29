@@ -1,6 +1,6 @@
 # 堆排序
 
-堆是一个完全二叉树，每个节点都比左右两个子节点大的称为大顶堆，每个节点逗比左右两个节点小的称为小顶堆
+堆是一个完全二叉树，每个节点都比左右两个子节点大的称为大顶堆，每个节点都比左右两个节点小的称为小顶堆
 
 堆排序的方法：
 
@@ -13,6 +13,6 @@
 
 
 
-*时间复杂度：* ![](http://latex.codecogs.com/gif.latex?O({n}\log{n}))
+*时间复杂度：* ![](http://latex.codecogs.com/gif.latex?O({n}\lg{n}))
 
 *空间复杂度：* ![](http://latex.codecogs.com/gif.latex?O(\\lg{n}))
